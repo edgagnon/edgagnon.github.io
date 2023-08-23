@@ -2720,10 +2720,10 @@ input, select, textarea {
 
 			
 	#banner2 {
-		background-image: url("../../images/banner.jpg");
-		background-position: center center;
+		background-image: url("../../images/Andes_Mountains3.jpg");
+		background-position: top center;
 		background-size: cover;
-		height: 28em;
+		height: 38em;
 		text-align: center;
 		position: relative;
 	}
